@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjercicioAgua</string>
+    <string name="tvPregunta">¿Cuantos litros de agua consumio?</string>
+    <string name="btnEnviar">Calcular</string>
+</resources>
